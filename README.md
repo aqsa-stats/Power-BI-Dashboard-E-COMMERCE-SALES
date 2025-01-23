@@ -19,11 +19,11 @@ The dataset used in this project includes the following columns:
 1. **Sales Analysis by Region:** Evaluate sales performance across various states and cities.
 2. **Customer Insights:** Identify top customers contributing to revenue.
 3. **Time-Series Analysis:** Trends in sales based on order dates.
-4. **Dynamic Filters:**Interactive slicers to analyze data based on customer, region, and order period.
+4. **Dynamic Filters:** Interactive slicers to analyze data based on customer, region, and order period.
    
 ## Visualizations Included
 - **Sales by Region:** A geographic visualization to show sales distribution.
-- **Top Customers by Revenue:**A bar chart highlighting high-value customers.
+- **Top Customers by Revenue:** A bar chart highlighting high-value customers.
 - **Sales Trend Over Time:** A line chart depicting sales performance across different months.
 - **Key Performance Indicators (KPIs):** Total revenue, total orders, and average order value.
 
